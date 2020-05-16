@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/11/2019, 13:36:44
+    Author     : Victor_Aguiar
+*/
+
+td {
+    height: 25px;
+    width: 30px;
+    background: #f5f5f5;
+    font: 12px verdana;							  
+    text-align: center;
+}
+
+.mes {
+    font: bold 12px verdana;
+    background: #f5f5f5;
+    text-align: center;
+    line-height: 25px;							
+    height: 25px;
+    width: 240px;
+}
+
+.semana {
+    font: bold 12px verdana;
+}
+
+.dia {
+    height:50px;
+    width: 20px;
+    padding-top:6px;
+    vertical-align:middle;
+    position:static;
+}
+
+.evento {
+    position: relative;
+    font: 9px verdana;
+    color: #C30;
+    position:absolute;
+    right: -2px;
+    top: -2px;					  
+}
